@@ -17,3 +17,6 @@ Word2Vec/TF-IDF
 ### Model
 RNN
 * Using SimpleRNN from keras
+
+### Dataset
+https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset
